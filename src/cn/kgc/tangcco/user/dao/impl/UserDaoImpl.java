@@ -11,4 +11,7 @@ public class UserDaoImpl implements UserDao{
 		return null;
 	}
 
+	public void test() {
+		System.out.println("ABC");
+	}
 }
