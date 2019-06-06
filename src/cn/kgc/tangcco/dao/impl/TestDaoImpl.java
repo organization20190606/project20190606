@@ -6,8 +6,9 @@ public class TestDaoImpl implements TestDao{
 
 	@Override
 	public void testMethod() {
-		// TODO Auto-generated method stub
+		System.out.println("niezhong say hello");
 		
+		System.out.println("张丽霞呵呵呵");
 	}
 
 }
