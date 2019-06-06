@@ -13,6 +13,11 @@ public class TestDaoImpl implements TestDao{
 		String str ="hello";
 		System.out.println("str="+str);
 		
+
+		int a = 5;
+		int b = 6;
+		int c = 8;
+		
 		
 		str = str.toLowerCase();
 		System.out.println("转成小写后，str="+str);
