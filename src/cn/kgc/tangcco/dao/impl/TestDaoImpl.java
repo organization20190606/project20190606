@@ -6,7 +6,7 @@ public class TestDaoImpl implements TestDao{
 
 	@Override
 	public void testMethod() {
-		// TODO Auto-generated method stub
+		System.out.println("abcdefg");
 		
 	}
 
