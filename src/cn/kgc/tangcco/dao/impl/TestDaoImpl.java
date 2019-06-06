@@ -10,7 +10,8 @@ public class TestDaoImpl implements TestDao{
 		System.out.println("嘿嘿张丽霞");
 		System.out.println("niezhong say hello");
 		
-		
+		String str ="hello";
+		System.out.println("str="+str);
 	}
 
 }
