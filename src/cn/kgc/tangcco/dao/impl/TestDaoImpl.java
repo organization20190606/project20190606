@@ -6,11 +6,17 @@ public class TestDaoImpl implements TestDao{
 
 	@Override
 	public void testMethod() {
+		System.out.println("张丽霞呵呵呵");
+		System.out.println("嘿嘿张丽霞");
 		System.out.println("niezhong say hello");
 		
-		System.out.println("张丽霞呵呵呵");
+		
+		String str ="hello";
+		System.out.println("str="+str);
+
 		int a = 5;
 		int b = 6;
+		int c = 8;
 		
 	}
 
